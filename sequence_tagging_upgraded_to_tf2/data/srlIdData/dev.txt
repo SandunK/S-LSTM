@@ -1,0 +1,57 @@
+-DOCSTART- O
+
+එයින් ARG0
+අදහස්-mean.01 mean.01
+කරන්නේ-mean.01 mean.01
+කුමක් ARG1
+. O
+
+ඒවා ARG1
+අපට ARG2
+ලොකුම ARG2
+අභියෝගය ARG2
+පත්ව-become.01 become.01
+ඇත O
+. O
+
+අපට ARG0
+දැන් ARGM-TMP
+ස්මාර්ට් ARG1
+මීටර් ARG1
+අවශ්‍යයි-need.01 need.01
+. O
+
+මෙම ARG1
+යෝජනා ARG1
+ප්‍රතික්ෂේප-reject.01 reject.01
+කළ-reject.01 reject.01
+යුතුය ARGM-MOD
+. O
+
+ඒ ARG1
+වෙනුවට ARGM-DIS
+ඉඩම් ARG1
+පදනම් ARG1
+කරගත් ARG1
+විකල්පයක් ARG1
+ගැඹුරින් ARGM-MNR
+විමර්ශනය-investigate.01 investigate.01
+කළ-investigate.01 investigate.01
+යුතුය ARGM-MOD
+. O
+
+එය ARG0
+ආයෝජනයට ARG1
+ද ARGM-DIS
+එකඟ-agree.01 agree.01
+වේ-agree.01 agree.01
+. O
+
+අපි ARG0
+කතා-speak.01 speak.01
+කරන්නේ-speak.01 speak.01
+එක ARGM-MNR
+කටහඬකින් ARGM-MNR
+නො ARGM-NEG
+වේ O
+. O

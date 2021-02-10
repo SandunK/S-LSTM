@@ -1,0 +1,43 @@
+-DOCSTART- O
+
+දේශගුණය ARG1
+වඩාත් ARG1
+නොසන්සුන් ARG1
+බව ARG1
+අපි ARG0
+දනිමු-know.01 know.01
+. O
+
+මෙම ARG1
+කුණාටුවට ARG1
+පමණක් ARG1
+යුරෝ ARG3
+බිලියන ARG2
+1.4 ARG2
+වැය-cost.01 cost.01
+වී-cost.01 cost.01
+තිබේ-cost.01 cost.01
+. O
+
+එසේ ARGM-DIS
+අමතර ARG1
+උත්සාහයන් ARG1
+අවශ්‍ය-need.01 need.01
+වේ-need.01 need.01
+. O
+
+කෙසේ ARGM-DIS
+හඳුනාගත ARG1
+බව O
+සහතික-ensure.01 ensure.01
+කළ-ensure.01 ensure.01
+යුතුය ARGM-MOD
+. O
+
+අපි ARG0
+ඒ ARG1
+ප්‍රශ්නය ARG1
+දෙස O
+බැලිය-look.01 look.01
+යුතුයි O
+. O

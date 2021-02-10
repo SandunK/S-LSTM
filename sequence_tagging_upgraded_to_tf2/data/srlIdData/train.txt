@@ -1,0 +1,57 @@
+DOCSTART- O
+
+මම ARG0
+ඇඟවීමක් ARG1
+දෙමි-give.01 give.01
+. O
+
+අපි ARG0
+කෙසේ ARGM-MNR
+එය ARG1
+ආරක්ෂා-protect.01 protect.01
+කළ-protect.01 protect.01
+යුතු ARGM-MOD
+. O
+
+කෙසේ ARGM-ADV
+තවත් ARG1
+අවශ්‍ය-require.01 require.01
+වේ-require.01 require.01
+. O
+
+අයර්ලන්තය ARG0
+ජාතික ARGM-LOC
+ජනමත ARGM-LOC
+එය ARG1
+ප්‍රතික්ෂේප-reject.01 reject.01
+කළේය-reject.01 reject.01
+. O
+
+එය ARG1
+තේරුම්-understand.01 understand.01
+ගැනීමට-understand.01 understand.01
+එතරම් O
+අපහසු O
+. O
+
+අද ARG0
+අස්ථාවරත්වය ARG0
+අධිෂ්ඨානශීලී ARG1
+ක්‍රියාමාර්ගයක් ARG1
+ඉල්ලා-call.03 call.03
+සිටී-call.03 call.03
+. O
+
+ඡන්ද ARG1
+බ්‍රහස්පතින්දා ARGM-TMP
+සිදු-take.14 take.14
+වෙයි-take.14 take.14
+. O
+
+ග්‍රීන් ARG0
+පේපර් ARG0
+ප්‍රසිද්ධ ARG2
+විවාදයකට ARG2
+මඟ-lead.03 lead.03
+පෙන්වීය-lead.03 lead.03
+. O
