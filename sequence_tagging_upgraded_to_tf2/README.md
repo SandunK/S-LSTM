@@ -7,7 +7,7 @@
     `tensorflow-addon`  
     `gensim 3.4.0`  
     
-    ```Tested with cuda 10.1```
+    ```Tested with cuda 10.1 and tensorflow 2.4```
 2. Training data should be in following directories
 
     The predicate identifier - `/data/predIdData`  
