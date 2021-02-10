@@ -1,4 +1,4 @@
-# direct-sin-srl
+# Used for Semantic role labelling
 
 1. First satisfy the following requirements
     
@@ -6,6 +6,7 @@
     `tensorflow 2.2`    
     `tensorflow-addon`  
     `gensim 3.4.0`  
+    
     ```Tested with cuda 10.1```
 2. Training data should be in following directories
 
@@ -40,15 +41,3 @@
 
 9. logs are stored in `/results` directory
 
-
-### When run in COLAB
-execute following code snippet inside the browser console to remain connected the colab session
-
-```
-function ClickConnect(){
-    console.log("Working"); 
-    document.querySelector("colab-connect-button").click() 
-}
-setInterval(ClickConnect,60000)
-
-```
